@@ -1,0 +1,2 @@
+premier flag:
+On voit que le code assembleur vérifie les charactère 1 par 1, avec cmp, donc on récupère chaque caractère, ce qui donne: PoC<3
